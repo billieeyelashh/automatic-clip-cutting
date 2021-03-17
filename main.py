@@ -3,10 +3,10 @@ from moviepy.editor import VideoFileClip, concatenate_videoclips
 
 # Path to cut videos
 
-path = "yvonne_bar_"
+path = ""
 RESOLUTION = (720, 1280)
 ENABLE_TRANSITION = True
-TRANSITION_FILE_PATH = "/yvonne_bar_/2021-03-01_19-16-45_UTC.mp4"
+TRANSITION_FILE_PATH = "/assets/"
 RESIZE_TRANSITION = True
 REZISE_CLIPS = True
 
